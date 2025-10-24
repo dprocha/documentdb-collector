@@ -1,0 +1,40 @@
+{
+  "databases": [
+    {
+      "name": "faq",
+      "collections": 1,
+      "countDocuments": 901,
+      "views": 0,
+      "indexes": 1,
+      "indexSizeGB": 0,
+      "dataSizeGB": 0.01,
+      "storageSizeGB": 0.01
+    },
+    {
+      "name": "sizer",
+      "collections": 5,
+      "countDocuments": 4000000,
+      "views": 0,
+      "indexes": 15,
+      "indexSizeGB": 0.74,
+      "dataSizeGB": 6.96,
+      "storageSizeGB": 5.13
+    }
+  ],
+  "totals": {
+    "dataSizeGB": 6.97,
+    "storageSizeGB": 5.13,
+    "indexSizeGB": 0.74
+  },
+  "additionalInfo": {
+    "version": "8.0.15",
+    "storageEngine": "wiredTiger",
+    "cpuCores": 8,
+    "memoryMB": 31374,
+    "hosts": [
+      "xxx.mongodb.net:27017",
+      "xxx.mongodb.net:27017",
+      "xxx.mongodb.net:27017"
+    ]
+  }
+}

@@ -37,4 +37,6 @@ mongosh 'xxx.us-east-2.docdb.amazonaws.com:27017' getDocumentDBStats.js --tls --
 ```
 
 ## 3. Output JSON
+
+* [Example of output.json](output.json)
 * Send the output file to the MongoDB Solutions Architect for analysis.
