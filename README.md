@@ -5,7 +5,7 @@ The purpose of this script is to collect the data required by a MongoDB Solution
 This guide shows you how to:
 1. Create a read-only monitoring user for Amazon DocumentDB
 2. Connect to the cluster using `mongosh`
-3. Run the `getDocumentDBStats.js()` script to output cluster/database stats as valid JSON
+3. Run the `getDocumentDBStats.js` script to output cluster/database stats as valid JSON
 
 ## Prerequisites
 1. Download and install [Mongo Shell](https://www.mongodb.com/docs/mongodb-shell/)
