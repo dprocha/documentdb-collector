@@ -1,6 +1,6 @@
 # DocumentDB Database Stats Collector
 
-The purpose of this script is to collect the data required by a MongoDB Solutions Architect to perform a cluster sizing analysis of from DocumentDB to MongoDB.
+The purpose of this script is to collect the data required by a MongoDB Solutions Architect to perform a cluster sizing analysis from DocumentDB to MongoDB.
 
 This guide shows you how to:
 1. Create a read-only monitoring user for Amazon DocumentDB
